@@ -1,0 +1,15 @@
+Write code that must achieve the following requirements:
+
+- First, start making breakfast
+    - Start making an omelette immediately. This should take 5 seconds.
+    - Start making a paratha after 2 seconds. It should take 3 seconds to make.
+    - Start making coffee after 4 seconds. It should be ready in 1 second.
+- While you're making breakfast, ask wife or husband what she wants for lunch
+    - He or she will respond after 10 seconds.
+- Then, ask him or her where to go for dinner.
+    - Response should be received immediately.
+
+
+1. Create a node js application using callback functions.
+2. Create a node js application using promises.
+3. Create a node js application using async / await.
